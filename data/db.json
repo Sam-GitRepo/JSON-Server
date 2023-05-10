@@ -1,0 +1,31 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "tittle": "Welcome to the new blog",
+            "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel blanditiis eius reiciendis nostrum iste exercitationem voluptas quaerat eos molestiae natus, unde repellendus pariatur, autem adipisci eligendi illum nam iusto libero repudiandae dolore consectetur expedita. Vel eaque unde consectetur aperiam nesciunt ab dolorem aut quis recusandae, maiores iure laboriosam possimus sequi.",
+            "likes": 30
+        },
+        {
+            "id": 2,
+            "tittle": "How to be a web dev",
+            "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel blanditiis eius reiciendis nostrum iste exercitationem voluptas quaerat eos molestiae natus, unde repellendus pariatur, autem adipisci eligendi illum nam iusto libero repudiandae dolore consectetur expedita. Vel eaque unde consectetur aperiam nesciunt ab dolorem aut quis recusandae, maiores iure laboriosam possimus sequi.",
+            "likes": 15
+        },
+        {
+            "id": 3,
+            "tittle": "Learning React!!",
+            "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel blanditiis eius reiciendis nostrum iste exercitationem voluptas quaerat eos molestiae natus, unde repellendus pariatur, autem adipisci eligendi illum nam iusto libero repudiandae dolore consectetur expedita. Vel eaque unde consectetur aperiam nesciunt ab dolorem aut quis recusandae, maiores iure laboriosam possimus sequi.",
+            "likes": 50
+        }
+    ],
+    "polls":[
+        {
+            "id": 1,
+            "question":"who come first?",
+            "answerA":"Hen",
+            "answerB":"Egg"
+        }
+    ]
+}
+
